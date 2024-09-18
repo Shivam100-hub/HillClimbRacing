@@ -1,4 +1,3 @@
-
 // variables and constants
 const c = document.getElementById('canvas');
 c.width = window.innerWidth;
